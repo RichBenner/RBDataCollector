@@ -1,0 +1,11 @@
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\obj\Release\RBDataCollector.csproj.CoreCompileInputs.cache
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\obj\Release\RBDataCollector.csproj.CopyComplete
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\obj\Release\RBDataCollector.exe
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\obj\Release\RBDataCollector.pdb
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\RBDataCollector.exe
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\RBDataCollector.pdb
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\EPPlus.dll
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\EPPlus.xml
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\obj\Release\RBDataCollector.csprojAssemblyReference.cache
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\DotNetZip.dll
+C:\Users\richardbenner\source\repos\RBDataCollector\RBDataCollector\DotNetZip.xml
